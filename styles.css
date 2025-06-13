@@ -1,0 +1,52 @@
+body {
+  background-color: rgba(255, 199, 153, 0.5);
+  }
+h1 {
+  text-align: center;
+  color: blue;
+  }
+p{
+  text-align: justify;
+  font: normal 16px Arial, Verdana, serif;
+  }
+
+.list li{
+  margin-bottom: 10px;
+  font: normal 16px Arial, Verdana, serif;
+  }
+
+.hobbie {
+  width: 400px;
+  height: 400px;
+  border-radius: 200px;
+  }
+
+.tabela {
+  border-collapse: collapse; 
+  width: 20%; 
+  }
+
+.tabela, 
+.tabela th, 
+.tabela td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+  }
+.pais
+{
+  font: normal 16px Arial, Verdana, serif;
+   
+  }
+.bandeira {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  }
+a:hover {
+  color: #005582;
+  }
+#mensagem {
+      display: none;
+    }
